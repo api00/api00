@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p>
 
-- 👨‍💻 All of my projects are available at [apialam.me](apialam.me)
-
-- 📝 I regularly write articles on [apialam.me/blogs](apialam.me/blogs)
 
 - 📫 How to reach me **apialam008@gmail.com**
 
