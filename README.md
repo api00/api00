@@ -38,5 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=api00&" alt="api00" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=api00" alt="api00" /></a> </p>
 
