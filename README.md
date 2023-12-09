@@ -2,6 +2,15 @@
 <h3 align="center">Programmer | Tech Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p>
 
+👋 Hey there! I'm [Your Name], a passionate software engineer with a knack for crafting in PHP, Java, Dart, and Flutter. 💻
+
+🚀 I specialize in building robust and scalable applications, leveraging the power of PHP for backend magic and Java for versatile solutions. Flutter and Dart? That's where I dive into crafting seamless, cross-platform experiences!
+
+🌟 My journey involves diving deep into code, solving complex puzzles, and continuously learning to push the boundaries of innovation.
+
+🔧 When I'm not coding, I'm probably exploring new tech trends, enjoying a cup of coffee, or hiking through the great outdoors.
+
+📫 Want to collaborate or discuss coding adventures? Feel free to reach out! Let's build something incredible together! 🌈
 
 - 🔭 I’m currently working on [iLearnX Technologies](https://ilearnx.live/)
 
