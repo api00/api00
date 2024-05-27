@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+API+ALAM!&color=4CE09D" />
 </h1>
 
-<h3 align="center">A passionate software developer from BD</h3>
+<h3 align="center">Based in BD, I'm a computer science graduate and startup co-founder, passionate about developing innovative solutions and teaching programming</h3>
 
 <div align="left">
  
