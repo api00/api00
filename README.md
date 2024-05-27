@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate software developer from BD</h3>
 
-<div align="center">
+<div align="left">
  
  🔭 I’m currently working on **<a href="https://ilearnx.live/">iLearnX Live<a/>**
  
