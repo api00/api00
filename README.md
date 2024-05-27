@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter, Marketing**
 
-💬 Ask me about **PHP, PostgreSQL, Programming... or anything [here](https://github.com/api00/api00/issues)**
+💬 Ask me about **PHP, PostgreSQL, Programming... or anything [here](https://api00.github.io/codebyapi/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,postgress" /><br>
 </div>
 
 <br/>
@@ -47,8 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/api00/api00/output/github-contribution-grid-snake.svg" />
-  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=api00&show_icons=true&locale=en&layout=compact" alt="api00" />  
   <br/><br/><br/>
 </div>
 
