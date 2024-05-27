@@ -2,52 +2,73 @@
 <h3 align="center" style="color: #4CE09D;">Coding Coach | Programmer | Tech Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p>
 
-<p style="color: #4CE09D;">👋 Hey there! This is API, a passionate software engineer with a knack for crafting in PHP, Java, Dart, and Flutter. 💻</p>
+<h2 align="left">Hi 👋! My name is API ALAM<br>Based in BD, I'm a computer science graduate and startup co-founder, passionate about developing innovative solutions and teaching programming. <br>I specialize in creating impactful, user-friendly applications.</h2>
 
-<p style="color: #4CE09D;">🚀 I specialize in building robust and scalable applications, leveraging the power of PHP for backend magic and Java for versatile solutions. Flutter and Dart? That's where I dive into crafting seamless, cross-platform experiences!</p>
+###
 
-<p style="color: #4CE09D;">🌟 My journey involves diving deep into code, solving complex puzzles, and continuously learning to push the boundaries of innovation.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=api00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=api00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p style="color: #4CE09D;">🔧 When I'm not coding, I'm probably exploring new tech trends, enjoying a cup of coffee, or hiking through the great outdoors.</p>
+###
 
-<p style="color: #4CE09D;">📫 Want to collaborate or discuss coding adventures? Feel free to reach out! Let's build something incredible together! 🌈</p>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFtbGMxMnNxNzQyZTRmbjR0cnVvbmxjdTh3NmR6cXQwdWYyeXBrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-- 🔭 I’m currently working on [iLearnX Technologies](https://ilearnx.live/)
+###
 
-- 🌱 I’m currently learning **Flutter**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/api00?tab=repositories](https://github.com/api00?tab=repositories)
+###
 
-- 📝 I regularly write articles on [https://dev.to/api00](https://dev.to/api00)
+<div align="left">
+  <a href="https://www.instagram.com/codebyapi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/api-alam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/apialamapu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://wa.me/+8801745815676" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://api00.github.io/codebyapi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=codebyapi&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
 
-- 💬 Ask me about **Flutter, PHP, RESTAPI**
+###
 
-- 📫 How to reach me **apialam008@gmail.com**
+<br clear="both">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1w3uvxIxr-CypDnjJy_pL1_xPjCb1ivx2/view?usp=sharing](https://drive.google.com/file/d/1w3uvxIxr-CypDnjJy_pL1_xPjCb1ivx2/view?usp=sharing)
+<img src="https://raw.githubusercontent.com/api00/api00/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left" style="color: #4CE09D;">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/api00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="api00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/api-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="api-alam" height="30" width="40" /></a>
-<a href="https://fb.com/apialamapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="apialamapu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left" style="color: #4CE09D;">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=api00&show_icons=true&locale=en&layout=compact" alt="api00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&locale=en" alt="api00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=api00&" alt="api00" /></p>
+###
