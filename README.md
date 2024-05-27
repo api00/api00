@@ -1,7 +1,3 @@
-<h1 align="center" style="color: #4CE09D;">Hi 👋, I'm API ALAM</h1>
-<h3 align="center" style="color: #4CE09D;">Coding Coach | Programmer | Tech Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p>
-
 <h2 align="left">Hi 👋! My name is API ALAM<br>Based in BD, I'm a computer science graduate and startup co-founder, passionate about developing innovative solutions and teaching programming. <br>I specialize in creating impactful, user-friendly applications.</h2>
 
 ###
