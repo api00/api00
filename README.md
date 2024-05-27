@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=api00&show_icons=true&locale=en&layout=compact" alt="api00" />  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&locale=en" alt="api00" /></p>
   <br/><br/><br/>
 </div>
 
