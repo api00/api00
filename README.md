@@ -41,9 +41,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,php,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,postgress" /><br>
 </div>
 
-<br/>
-<hr/>
-br/><br/>
+
+<br/><br/>
 </div>
 
 <hr/>
