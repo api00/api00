@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=api00.api00" />
+<img align="right"  src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+API+ALAM!&color=4CE09D" />
@@ -35,7 +35,6 @@
 <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,php,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,postgress" /><br>
@@ -48,7 +47,6 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=api00&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=api00&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
