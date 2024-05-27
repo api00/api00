@@ -14,7 +14,7 @@
 
 💬 Ask me about **PHP, PostgreSQL, Programming... or anything [here](https://api00.github.io/codebyapi/)**
 
-🌟 I teach people programming and web development on **[codebyapi](https://api00.github.io/codebyapi/coaching)**
+🌟 **I teach people programming and web development on [codebyapi](https://api00.github.io/codebyapi/coaching)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
