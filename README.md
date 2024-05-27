@@ -8,7 +8,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **<a href="https://ilearnx.live/">iLearnX.Live<a/>**
+ 🔭 I’m currently working on **<a target="_blank" href="https://ilearnx.live/">iLearnX.Live<a/>**
  
  🌱 I’m currently learning **Flutter, Marketing**
 
