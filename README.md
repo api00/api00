@@ -20,7 +20,7 @@
 
 </div>
 <div align="right">
-     <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47ndrv416k53azxryl9qlyptgw8xfbdf92rkovy27p&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="600" />
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 </div>
  
