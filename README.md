@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://drive.google.com/file/d/1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE/view?usp=drive_link" alt="Descriptive Alt Text"/>
+![Your Image](https://drive.google.com/file/d/1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE/view?usp=sharing)
 </div>
 
 
