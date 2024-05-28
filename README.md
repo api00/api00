@@ -4,6 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Grotesk&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+API+ALAM!&color=4CE09D" />
 </h1>
 
+<div align="center">
+    <img src="[(https://drive.google.com/file/d/1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE/view?usp=drive_link)]" alt="Descriptive Alt Text"/>
+</div>
+
+
 <h3 align="center">Based in BD, I'm a computer science graduate and startup co-founder, passionate about developing innovative solutions and teaching programming</h3>
 
 <div align="left">
