@@ -17,7 +17,7 @@
 
 🌟 **I teach people programming and web development on [codebyapi](https://api00.github.io/codebyapi/coaching)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **There are over 700 programming languages in existence today, ranging from well-known ones like JavaScript and Python to more obscure ones like Brainfuck and Malbolge.**
 
 </div>
  
