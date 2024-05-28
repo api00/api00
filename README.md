@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE" alt="Your Image" width="500"/>
+    <img src="https://drive.google.com/uc?export=view&id=1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE" alt="Your Image"/>
 </div>
 
 
