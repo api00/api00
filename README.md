@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-![Your Image](https://drive.google.com/file/d/1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE/view?usp=sharing)
+    <img src="https://drive.google.com/uc?export=view&id=1hk-LFNQfheAwFQx1qs11Asad8ktz7wgE" alt="Your Image" width="500"/>
 </div>
 
 
