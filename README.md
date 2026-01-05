@@ -1,66 +1,65 @@
-# 👋 Hello, I'm Api Alam!
-### Digital Craftsman | Indie Creator | SaaS Builder 🚀
+<div align="center">
 
-I turn ideas into revenue-generating reality, one line of code at a time. I am passionate about **Building in Public**, crafting digital experiences that merge aesthetics with functionality, and shipping products that solve real-world problems.
+# 👨🏻‍💻 Api Alam
+**Digital Craftsman • Indie Creator • Shipping in Public**
 
----
+*"Turning caffeine and curiosity into profitable SaaS products."*
 
-### 📊 My Journey at a Glance
-I believe in results. Here’s what I’ve achieved so far:
-- 🚀 **12+ Products** launched and iterated.
-- 👥 **5k+ Users** served across various platforms.
-- 🛠️ **∞ Passion** for clean code and user-centric design.
+[Portfolio](https://codebyapi.xyz/) • [Twitter/X](https://x.com/apialamapu) • [LinkedIn](https://linkedin.com/in/api-alam) • [Book a Call](https://codebyapi.xyz/)
 
 ---
 
-### 🏗️ Featured Projects (Shipping in Public)
-From automation to education, here are some of the products I've built:
+### ✦ The Manifesto
+I don't just write code; I build businesses. I believe in the power of **Micro-SaaS**, 
+the transparency of **Building in Public**, and the art of the **Minimal Viable Product**. 
+Currently focusing on bridging the gap between complex AI and everyday utility.
 
-* **[iLearnX](https://codebyapi.xyz/)** – An interactive learning platform for modern education.
-* **ProjectPulse** – A streamlined project management and team collaboration tool.
-* **WeBot** – AI-powered chatbot solutions designed for business growth.
-* **AutomationLab** – Workflow automation tools to supercharge productivity.
-* **QuickQuiz** – A fast, engaging platform for interactive learning.
-* **Sophia** – A sophisticated AI assistant for smart, human-like conversations.
+</div>
 
----
+### 🛠 Tools of the Trade
+> *"A craftsman is only as good as his tools."*
 
-### 🛠️ My Tech Stack & Tools
-As a full-stack developer and creator, I leverage a wide range of technologies to build scalable solutions:
-
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
+| Category | Stack |
+| :--- | :--- |
+| **Backend** | `PHP / Laravel` • `C# / .NET` • `Java` |
+| **Frontend** | `React` • `Tailwind CSS` • `Next.js` |
+| **Intelligence** | `OpenAI API` • `LangChain` • `Prompt Engineering` |
+| **Workflow** | `Git` • `Docker` • `Terminal-first development` |
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=radical" alt="Api's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🚀 Shipped Products
+*Building a portfolio of small, profitable bets.*
+
+* **[iLearnX](https://codebyapi.xyz/)** — Reimagining the digital learning experience.
+* **WeBot** — AI-driven conversation layers for modern businesses.
+* **AutomationLab** — Removing the friction from repetitive workflows.
+* **Sophia** — A personal experiment in human-centric AI interaction.
 
 ---
 
-### 📫 Let's Connect & Collaborate
-Whether you have a project idea, are looking for a technical co-founder, or just want to chat about building SaaS, I'm always open to connecting!
-
-- 🌐 **Portfolio:** [codebyapi.xyz](https://codebyapi.xyz/)
-- 💼 **LinkedIn:** [Api Alam](https://linkedin.com/in/api-alam)
-- 🐦 **X (Twitter):** [@apialamapu](https://x.com/apialamapu)
-- 📅 **Let's Talk:** [Schedule a 30-minute call](https://codebyapi.xyz/)
-
----
-
+### 📈 Proof of Work
 <p align="center">
-  <i>"Build. Grow. Serve."</i><br>
-  Built with ❤️ by Api • Shipping in public, one commit at a time.
+  <img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&icon_color=00d1b2" alt="Api's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" alt="Top Languages" width="40%" />
 </p>
+
+---
+
+### 🌑 Currently In The Lab
+- 🛠 Building **Mimic.so** — AI-powered writing style analyzer.
+- 🧪 Experimenting with **UK Immigration Law** niche automation.
+- ✍️ Writing about the journey of an indie maker in Bangladesh.
+
+---
+
+<div align="center">
+
+### Let's build the future together.
+If you're a founder, a fellow builder, or just someone who appreciates clean code—**let's connect.**
+
+[**Schedule a 30-min sync →**](https://codebyapi.xyz/)
+
+---
+`12+ Products` • `5k+ Users` • `Built with Passion`
+</div>
