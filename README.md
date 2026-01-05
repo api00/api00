@@ -1,60 +1,66 @@
-<img align="right"  src="https://komarev.com/ghpvc/?username=api008&label=Profile%20views&color=0e75b6&style=flat" alt="api008" /> </p> </br>
+# 👋 Hello, I'm Api Alam!
+### Digital Craftsman | Indie Creator | SaaS Builder 🚀
 
-<div align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1ASlh-_tGru1v11a8P9EG_uFtOCXYx1q_" alt="API+ALAM"/>
-</div>
+I turn ideas into revenue-generating reality, one line of code at a time. I am passionate about **Building in Public**, crafting digital experiences that merge aesthetics with functionality, and shipping products that solve real-world problems.
 
+---
 
-<h3 align="center">Based in BD, I'm a computer science graduate and startup co-founder, passionate about developing innovative solutions and teaching programming</h3>
+### 📊 My Journey at a Glance
+I believe in results. Here’s what I’ve achieved so far:
+- 🚀 **12+ Products** launched and iterated.
+- 👥 **5k+ Users** served across various platforms.
+- 🛠️ **∞ Passion** for clean code and user-centric design.
 
-<div align="left">
- 
- 🔭 I’m currently working on **<a target="_blank" href="https://ilearnx.live/">iLearnX.Live<a/>**
- 
- 🌱 I’m currently learning **Flutter, Marketing**
+---
 
-💬 Ask me about **PHP, PostgreSQL, Programming... or anything [here](https://api00.github.io/codebyapi/)**
+### 🏗️ Featured Projects (Shipping in Public)
+From automation to education, here are some of the products I've built:
 
-🌟 **I teach people programming and web development on [codebyapi](https://api00.github.io/codebyapi/coaching)**
+* **[iLearnX](https://codebyapi.xyz/)** – An interactive learning platform for modern education.
+* **ProjectPulse** – A streamlined project management and team collaboration tool.
+* **WeBot** – AI-powered chatbot solutions designed for business growth.
+* **AutomationLab** – Workflow automation tools to supercharge productivity.
+* **QuickQuiz** – A fast, engaging platform for interactive learning.
+* **Sophia** – A sophisticated AI assistant for smart, human-like conversations.
 
-⚡ Fun fact **There are over 700 programming languages in existence today, ranging from well-known ones like JavaScript and Python to more obscure ones like Brainfuck and Malbolge.**
+---
 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:apialam008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/api-alam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://api00.github.io/codebyapi/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+### 🛠️ My Tech Stack & Tools
+As a full-stack developer and creator, I leverage a wide range of technologies to build scalable solutions:
 
-<hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,php,python,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,postgress" /><br>
-</div>
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
 
-<br/><br/>
-</div>
+---
 
-<hr/>
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=radical" alt="Api's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=api00&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=api00&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=api00&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
+### 📫 Let's Connect & Collaborate
+Whether you have a project idea, are looking for a technical co-founder, or just want to chat about building SaaS, I'm always open to connecting!
 
-<br/>
+- 🌐 **Portfolio:** [codebyapi.xyz](https://codebyapi.xyz/)
+- 💼 **LinkedIn:** [Api Alam](https://linkedin.com/in/api-alam)
+- 🐦 **X (Twitter):** [@apialamapu](https://x.com/apialamapu)
+- 📅 **Let's Talk:** [Schedule a 30-minute call](https://codebyapi.xyz/)
+
+---
+
+<p align="center">
+  <i>"Build. Grow. Serve."</i><br>
+  Built with ❤️ by Api • Shipping in public, one commit at a time.
+</p>
