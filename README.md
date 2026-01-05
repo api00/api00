@@ -45,15 +45,15 @@ From idea to revenue. Here is what I am currently building:
 
 | Category | Stack |
 |----------|-------|
-| **Backend** | PHP / Laravel • C# / .NET • Java |
+| **Backend** | Javascript / PHP / Laravel • C# / .NET • Java |
 | **Frontend** | React • Tailwind CSS • Next.js |
-| **Intelligence** | OpenAI API • LangChain • Prompt Engineering |
+| **Intelligence** | OpenAI API • RAG • LangChain • Prompt Engineering |
 | **Workflow** | Git • Docker • Terminal-first development |
 
 ### 🌑 In The Lab (Current Sprint)
 
 - 🧪 **Mimic.so** — AI-powered writing style analyzer.
-- 🏛️ **Legal Automation** — Specializing in UK immigration law niches.
+- 🏛️ **Webot.live** — Specializing in UK immigration law niches.
 - 🎓 **AIUB Alumnus** — Building tools for the next generation of students.
 
 <div align="center">
