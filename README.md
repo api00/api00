@@ -40,8 +40,8 @@ Currently focusing on bridging the gap between complex AI and everyday utility.
 
 ### 📈 Proof of Work
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=radical&hide_border=false" alt="Api's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=radical" alt="Api's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=radical" alt="Top Languages" width="40%" />
 </p>
 
 ---
