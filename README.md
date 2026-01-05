@@ -1,65 +1,71 @@
 <div align="center">
 
 # 👨🏻‍💻 Api Alam
-**Digital Craftsman • Indie Creator • Shipping in Public**
 
-*"Turning caffeine and curiosity into profitable SaaS products."*
+### Digital Craftsman • Indie Creator • Shipping in Public
+
+*"I build profitable SaaS products in public. Turning ideas into revenue-generating reality, one line of code at a time."*
 
 [Portfolio](https://codebyapi.xyz/) • [Twitter/X](https://x.com/apialamapu) • [LinkedIn](https://linkedin.com/in/api-alam) • [Book a Call](https://codebyapi.xyz/)
 
 ---
 
+</div>
+
 ### ✦ The Manifesto
+
 I don't just write code; I build businesses. I believe in the power of **Micro-SaaS**, 
 the transparency of **Building in Public**, and the art of the **Minimal Viable Product**. 
 Currently focusing on bridging the gap between complex AI and everyday utility.
 
-</div>
+### 📊 Shipping Dashboard
 
-### 🛠 Tools of the Trade
-> *"A craftsman is only as good as his tools."*
+> These stats represent the results of shipping 12+ products to over 5,000 users.
+```text
+  PRODUCTS SHIPPED : 12+
+  ACTIVE USERS     : 5,000+
+  CURRENT FOCUS    : AI-Powered Automation
+  STATUS           : 🟢 Available for Collaboration
+```
+
+### 🏗️ Projects That Ship
+
+From idea to revenue. Here is what I am currently building:
+
+- **iLearnX** — Interactive learning platform for modern education.
+- **WeBot** — AI-powered chatbot solutions for businesses.
+- **ProjectPulse** — Project management and team collaboration tool.
+- **AutomationLab** — Workflow automation and productivity tools.
+- **QuickQuiz** — Fast and engaging quiz platform for learning.
+- **Sophia** — AI assistant for smart conversations.
+
+### 🛠️ Technical Stack
+
+*"A craftsman is only as good as his tools."*
 
 | Category | Stack |
-| :--- | :--- |
-| **Backend** | `PHP / Laravel` • `C# / .NET` • `Java` |
-| **Frontend** | `React` • `Tailwind CSS` • `Next.js` |
-| **Intelligence** | `OpenAI API` • `LangChain` • `Prompt Engineering` |
-| **Workflow** | `Git` • `Docker` • `Terminal-first development` |
+|----------|-------|
+| **Backend** | PHP / Laravel • C# / .NET • Java |
+| **Frontend** | React • Tailwind CSS • Next.js |
+| **Intelligence** | OpenAI API • LangChain • Prompt Engineering |
+| **Workflow** | Git • Docker • Terminal-first development |
 
----
+### 🌑 In The Lab (Current Sprint)
 
-### 🚀 Shipped Products
-*Building a portfolio of small, profitable bets.*
-
-* **[iLearnX](https://codebyapi.xyz/)** — Reimagining the digital learning experience.
-* **WeBot** — AI-driven conversation layers for modern businesses.
-* **AutomationLab** — Removing the friction from repetitive workflows.
-* **Sophia** — A personal experiment in human-centric AI interaction.
-
----
-
-### 📈 Proof of Work
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=api00&show_icons=true&theme=radical" alt="Api's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api00&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-</p>
-
----
-
-### 🌑 Currently In The Lab
-- 🛠 Building **Mimic.so** — AI-powered writing style analyzer.
-- 🧪 Experimenting with **UK Immigration Law** niche automation.
-- ✍️ Writing about the journey of an indie maker in Bangladesh.
-
----
+- 🧪 **Mimic.so** — AI-powered writing style analyzer.
+- 🏛️ **Legal Automation** — Specializing in UK immigration law niches.
+- 🎓 **AIUB Alumnus** — Building tools for the next generation of students.
 
 <div align="center">
 
-### Let's build the future together.
-If you're a founder, a fellow builder, or just someone who appreciates clean code—**let's connect.**
-
-[**Schedule a 30-min sync →**](https://codebyapi.xyz/)
-
 ---
-`12+ Products` • `5k+ Users` • `Built with Passion`
+
+**Let's build the future together.**
+
+If you're a founder, a fellow builder, or just someone who appreciates clean code—let's connect.
+
+[Schedule a 30-min sync →](https://codebyapi.xyz/)
+
+*12+ Products • 5k+ Users • Built with Passion*
+
 </div>
